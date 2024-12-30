@@ -1,3 +1,5 @@
+<img width="250px" src="https://neon.tech/brand/neon-logo-dark-color.svg" />
+
 # Running migrations in a Neon-Django project
 
 This application is a simple python API using the Django framework and Neon Postgres database. It returns a list of authors and books written by them. We illustrate how to generate and run schema change migrations.
